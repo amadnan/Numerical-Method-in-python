@@ -1,0 +1,4 @@
+Ordinary differential equation, Boundary value problems solving using python
+Finite difference method
+Python Ode solver
+Shooting methods(BVP)
